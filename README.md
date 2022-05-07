@@ -1,4 +1,4 @@
-# WCSERVERFINAL
+#6WCSERVER-WD-202-Depresso
 Coffeeshop code
 Background
 A coffeehouse, coffee shop, or café is a business that primarily offers coffee, such as espresso, latte, and cappuccino. Cold drinks, such as iced coffee, iced tea, and other non-caffeinated beverages, may be served at certain coffeehouses. Cafés in continental Europe provide alcoholic beverages. The first café is supposed to have opened around 1550 in Constantinople; cafés opened in Italy, France, Germany, and England during the 17th century. Coffeehouses, from a cultural aspect, primarily function as social interaction centers: a coffeehouse offers clients with a space to socialize, speak, read, write, entertain one another, or pass the time, whether independently or in small groups.
